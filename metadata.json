@@ -1,0 +1,6 @@
+{
+  "name": "Miekiszon",
+  "description": "Subtelny asystent głosowy AI dla Niemiec — wyszukiwanie restauracji (Döner, Pizza, Chińskie, przy poczcie), noclegów (Booking) oraz wysyłanie wiadomości WhatsApp.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
